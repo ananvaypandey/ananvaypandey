@@ -1,88 +1,101 @@
-````md
+````markdown
+<div align="center">
+
 # Hey, I'm Ananvay 👋
 
-**Founder & CEO @ VOIKES Technologies Pvt. Ltd.**
+### Founder & CEO @ VOIKES Technologies Pvt. Ltd.
 
-Building AI products that solve real-world problems.
+*Building AI products that make technology more human.*
 
 ---
+
+*"I don't build projects for GitHub. I build products for people."*
+
+</div>
 
 ## 🚀 About Me
 
-I'm a builder before I'm a developer.
+I'm a Computer Science student, entrepreneur, and AI builder passionate about creating technology that solves real-world problems.
 
-I enjoy turning ambitious ideas into products that people can actually use. My work revolves around Artificial Intelligence, Computer Vision, Embedded Systems, AR/VR and Human-Centered Technology.
+I founded **VOIKES Technologies Pvt. Ltd.** with a vision of building intelligent products that improve accessibility, healthcare, education, and everyday life.
 
-Currently pursuing Computer Science while building **VOIKES Technologies**, where we're creating AI-powered solutions focused on accessibility, healthcare and education.
+I enjoy building at the intersection of **Artificial Intelligence, Computer Vision, Embedded Systems, AR/VR, and Product Design.**
+
+Outside of work you'll probably find me with a cup of coffee, brainstorming the next startup idea or building something that started as a random thought at 2 AM.
 
 ---
 
-## ⚡ Currently Building
+## 💻 What I'm Working On
 
-🤖 **VOKA** — AI Companion
+- 🤖 AI Companions
+- 👓 Smart Assistive Devices
+- 🧠 Large Language Model Applications
+- 🎮 AR/VR Experiences
+- ⚙️ Embedded AI Systems
+- 🚀 Scaling VOIKES Technologies
 
-👓 **VOXLENS** — AI Smart Glasses
+---
 
-🎓 **TrackED** — Smart Campus Platform
+## 🚀 Featured Projects
 
-🕶️ **XR Experiences** — AR/VR Applications
+### 🤖 VOKA
+An AI companion focused on accessibility, healthcare and education, designed to make intelligent assistance more human.
+
+### 👓 VOXLENS
+AI-powered smart glasses using computer vision to assist visually impaired users through real-time environmental understanding.
+
+### 🎓 TrackED
+An intelligent campus platform integrating facial recognition, attendance automation and academic analytics.
+
+### 🥽 XR Experiences
+Immersive AR/VR applications combining storytelling, education and interactive experiences.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+**Languages**
 
-- Python
-- C++
-- JavaScript
+Python • C++ • JavaScript
 
-### AI
+**Artificial Intelligence**
 
-- LLMs
-- Gemini API
-- Computer Vision
-- OpenCV
-- YOLO
+LLMs • Gemini API • Computer Vision • OpenCV • YOLO • Machine Learning
 
-### Development
+**Development**
 
-- Unity
-- Unreal Engine
-- Firebase
-- REST APIs
+Unity • Unreal Engine • Firebase • REST APIs
 
-### Hardware
+**Hardware**
 
-- Raspberry Pi
-- ESP8266
-- IoT
-- Sensors
-- Rapid Prototyping
-- 3D Printing
+Raspberry Pi • ESP8266 • IoT • Sensors • 3D Printing • Rapid Prototyping
 
 ---
 
-## 🏆 Achievements
+## 🏆 Highlights
 
-- 🥇 Tech Expo 2024 Winner
-- 🥇 Tech Expo 2025 Winner
+- 🥇 Winner — Tech Expo 2024
+- 🥇 Winner — Tech Expo 2025
 - 📜 Patent Filed for VOKA
-- 🚀 Founder of VOIKES Technologies Pvt. Ltd.
+- 🚀 Founder & CEO — VOIKES Technologies Pvt. Ltd.
 - 💡 Smart India Hackathon Participant
-- 🌍 GDG DevFest Participant
+- 🌍 Google Developer Group DevFest Participant
 
 ---
 
-## ☕ Fuel
+## ☕ Powered By
 
-Coffee.
+```
+Coffee      ████████████████████ 100%
 
-Lots of Coffee.
+Ideas       ████████████████████ ∞
 
-Every product starts with an idea.
+Curiosity   ████████████████████ ∞
 
-Every idea starts with coffee.
+Sleep       ██░░░░░░░░░░░░░░░░░░ 20%
+
+Building    ████████████████████ Always
+```
 
 ---
 
@@ -91,63 +104,63 @@ Every idea starts with coffee.
 - AI Agents
 - Robotics
 - Wearable AI
-- Product Design
-- Startup Growth
 - Human-AI Interaction
-
----
-
-## 📈 Mission
-
-I don't want to build projects that collect stars.
-
-I want to build products that create impact.
-
-Every repository here represents an experiment, a lesson, or a step toward building technology that genuinely helps people.
+- Startup Growth
+- Product Strategy
 
 ---
 
 ## 💭 Philosophy
 
-> Build things people remember.
+> Build things that people remember.
 
 Not because they're flashy.
 
-Because they make someone's life easier.
+Because they solve real problems.
+
+---
+
+## 🎯 2026 Goals
+
+- Launch impactful AI products
+- Scale VOIKES Technologies globally
+- Contribute more to Open Source
+- Keep learning every single day
+- Build technology that genuinely helps people
+
+---
+
+## ☕ Fun Facts
+
+- Coffee is my favorite debugging tool.
+- Most ideas arrive after midnight.
+- I learn by building, not by watching tutorials.
+- I enjoy turning impossible ideas into working prototypes.
+- Every repository is a step toward something bigger.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to conversations about
+I'm always open to conversations about:
 
 - Artificial Intelligence
 - Startups
 - Product Building
-- Accessibility
 - Computer Vision
 - Hardware
+- Accessibility
 - Coffee ☕
 
 ---
 
-### Current Status
+<div align="center">
 
-```
-☕ Coffee          ████████████████ 100%
+### Less Talking. More Building.
 
-🚀 Building        ███████████████░ 95%
+**Founder • Builder • Engineer • Coffee Enthusiast ☕**
 
-💡 Ideas           ████████████████ ∞
+*"The best way to predict the future is to build it."*
 
-😴 Sleep           ██░░░░░░░░░░░░░░ 20%
-
-🐛 Bugs            ██████░░░░░░░░░░ Sometimes
-
-✨ Shipping         ██████████████░ Always
-```
-
----
-
-> **"Less talking. More building."** 🚀
+</div>
 ````
