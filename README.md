@@ -1,5 +1,5 @@
 ````md
-# Hey, I'm Ananvay Pandey 👋
+# Hey, I'm Ananvay 👋
 
 **Founder & CEO @ VOIKES Technologies Pvt. Ltd.**
 
