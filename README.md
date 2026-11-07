@@ -37,9 +37,21 @@ I'm **Ananvay Pandey** — a B.Tech CSE student and builder working where **AI, 
 | **[VOKA](https://github.com/ananvaypandey/VOKA)** | an AI companion for mental well-being — lifelike avatar + hardware sensing | Raspberry Pi 5 · Unreal · MetaHuman · FastAPI |
 | **[VOXLENS](https://github.com/ananvaypandey/VOXLENS)** | smart glasses that caption speech in real time | speech-to-text · embedded systems · HCI |
 | **[VOSIGN](https://github.com/ananvaypandey/VOSIGN)** | a smart glove that turns sign language into speech | flex sensors · gesture recognition |
-| **[VOZO](https://github.com/ananvaypandey/VOZO)** | an offline peer-to-peer messenger — no internet, no server | Android · Nearby Connections |
+| **[VOZO](https://play.google.com/store/apps/details?id=com.aistudio.vozo.kdnoqm)** | offline peer-to-peer messenger — no internet, no SIM, no server | Android · Nearby Connections · on Google Play |
+| **[VIONEX](https://play.google.com/store/apps/details?id=com.VoikesTechnologies.Vionex)** | a 2.5D platformer with a pixel hero and a loyal pet fox — fully offline | 2.5D art · game dev · on Google Play |
 
 <sub>…plus a hand-drawn endless runner and a shelf of experiments that may or may not compile.</sub>
+
+---
+
+### 📱 shipped to the Play Store
+
+apps published under **VOIKES Technologies** — [developer profile](https://play.google.com/store/apps/developer?id=VOIKES+TECHNOLOGIES+PRIVATE+LIMITED)
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.VoikesTechnologies.Vionex"><img src="https://img.shields.io/badge/Google%20Play-VIONEX-4e7a5e?style=for-the-badge&logo=googleplay&logoColor=ffffff" alt="Get VIONEX on Google Play" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.aistudio.vozo.kdnoqm"><img src="https://img.shields.io/badge/Google%20Play-VOZO%20%E2%AD%90%204.7-3151c2?style=for-the-badge&logo=googleplay&logoColor=ffffff" alt="Get VOZO on Google Play" /></a>
+</p>
 
 ---
 
@@ -74,9 +86,11 @@ I'm **Ananvay Pandey** — a B.Tech CSE student and builder working where **AI, 
 ### 📈 leftover graphite
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ananvaypandey&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=f6f1e3&title_color=211f1a&text_color=211f1a&icon_color=3151c2&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananvaypandey&layout=compact&langs_count=8&hide_border=true&bg_color=f6f1e3&title_color=211f1a&text_color=211f1a" alt="Top languages" />
+  <img src="./assets/stats.svg" alt="GitHub stats" width="100%" />
+  <img src="./assets/langs.svg" alt="Top languages" width="100%" />
 </div>
+
+<sub align="center">cards are generated straight from the GitHub API by a tiny daily Action — no third-party service to go down.</sub>
 
 ---
 

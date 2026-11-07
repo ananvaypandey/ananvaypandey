@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="GitHub stats for ananvaypandey">
+  <defs>
+    <filter id="w" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="2" seed="7" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="ws" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="3" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="1.5" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1" fill="#9a9281" opacity="0.2"/>
+      <circle cx="14" cy="11" r="0.7" fill="#9a9281" opacity="0.14"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" fill="#f6f1e3"/>
+  <rect width="1200" height="240" fill="url(#g)"/>
+  <rect x="16" y="16" width="1168" height="208" rx="18" fill="none" stroke="#211f1a" stroke-width="3" filter="url(#w)"/>
+
+  <text x="60" y="66" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="30" fill="#211f1a" filter="url(#ws)">the ledger</text>
+  <path d="M60 76 q 30 8 60 0" fill="none" stroke="#cf4a33" stroke-width="3" stroke-linecap="round" filter="url(#ws)"/>
+  <text x="1140" y="64" text-anchor="end" font-family="'Courier New',monospace" font-size="12" fill="#9a9281">scribbling since 2024 &#183; refreshed by a little robot</text>
+  
+    <g transform="translate(60 92)">
+      <rect width="234" height="116" rx="14" fill="#fdfaf0" stroke="#211f1a" stroke-width="2.5" filter="url(#w)"/>
+      <text x="117" y="54" text-anchor="middle" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="44" font-weight="700" fill="#3151c2">13</text>
+      <text x="117" y="88" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="1" fill="#7a7365">repositories</text>
+    </g>
+    <g transform="translate(342 92)">
+      <rect width="234" height="116" rx="14" fill="#fdfaf0" stroke="#211f1a" stroke-width="2.5" filter="url(#w)"/>
+      <text x="117" y="54" text-anchor="middle" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="44" font-weight="700" fill="#3151c2">4</text>
+      <text x="117" y="88" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="1" fill="#7a7365">stars earned</text>
+    </g>
+    <g transform="translate(624 92)">
+      <rect width="234" height="116" rx="14" fill="#fdfaf0" stroke="#211f1a" stroke-width="2.5" filter="url(#w)"/>
+      <text x="117" y="54" text-anchor="middle" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="44" font-weight="700" fill="#3151c2">6</text>
+      <text x="117" y="88" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="1" fill="#7a7365">followers</text>
+    </g>
+    <g transform="translate(906 92)">
+      <rect width="234" height="116" rx="14" fill="#fdfaf0" stroke="#211f1a" stroke-width="2.5" filter="url(#w)"/>
+      <text x="117" y="54" text-anchor="middle" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="44" font-weight="700" fill="#3151c2">5</text>
+      <text x="117" y="88" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="1" fill="#7a7365">following</text>
+    </g>
+</svg>

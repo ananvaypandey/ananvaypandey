@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Top languages for ananvaypandey">
+  <defs>
+    <filter id="w" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="2" seed="7" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="ws" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="3" result="n"/>
+      <feDisplacementMap in="SourceGraphic" in2="n" scale="1.5" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1" fill="#9a9281" opacity="0.2"/>
+      <circle cx="14" cy="11" r="0.7" fill="#9a9281" opacity="0.14"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="#f6f1e3"/>
+  <rect width="1200" height="300" fill="url(#g)"/>
+  <rect x="16" y="16" width="1168" height="268" rx="18" fill="none" stroke="#211f1a" stroke-width="3" filter="url(#w)"/>
+
+  <text x="60" y="66" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="30" fill="#211f1a" filter="url(#ws)">ink by language</text>
+  <path d="M60 76 q 30 8 60 0" fill="none" stroke="#cf4a33" stroke-width="3" stroke-linecap="round" filter="url(#ws)"/>
+  <text x="1140" y="64" text-anchor="end" font-family="'Courier New',monospace" font-size="12" fill="#9a9281">primary language of 12 public repos</text>
+  
+    <text x="70" y="133" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="18" fill="#211f1a">Python</text>
+    <rect x="270" y="118" width="720" height="18" rx="9" fill="none" stroke="#9a9281" stroke-width="1.4" stroke-dasharray="3 7"/>
+    <rect x="270" y="118" width="240" height="18" rx="9" fill="#3151c2" opacity="0.9" filter="url(#w)"/>
+    <text x="1110" y="132" text-anchor="end" font-family="'Courier New',monospace" font-size="13" fill="#7a7365">33%</text>
+    <text x="70" y="165" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="18" fill="#211f1a">HTML</text>
+    <rect x="270" y="150" width="720" height="18" rx="9" fill="none" stroke="#9a9281" stroke-width="1.4" stroke-dasharray="3 7"/>
+    <rect x="270" y="150" width="240" height="18" rx="9" fill="#cf4a33" opacity="0.9" filter="url(#w)"/>
+    <text x="1110" y="164" text-anchor="end" font-family="'Courier New',monospace" font-size="13" fill="#7a7365">33%</text>
+    <text x="70" y="197" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="18" fill="#211f1a">TypeScript</text>
+    <rect x="270" y="182" width="720" height="18" rx="9" fill="none" stroke="#9a9281" stroke-width="1.4" stroke-dasharray="3 7"/>
+    <rect x="270" y="182" width="120" height="18" rx="9" fill="#f2c14e" opacity="0.9" filter="url(#w)"/>
+    <text x="1110" y="196" text-anchor="end" font-family="'Courier New',monospace" font-size="13" fill="#7a7365">17%</text>
+    <text x="70" y="229" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="18" fill="#211f1a">Kotlin</text>
+    <rect x="270" y="214" width="720" height="18" rx="9" fill="none" stroke="#9a9281" stroke-width="1.4" stroke-dasharray="3 7"/>
+    <rect x="270" y="214" width="120" height="18" rx="9" fill="#4e7a5e" opacity="0.9" filter="url(#w)"/>
+    <text x="1110" y="228" text-anchor="end" font-family="'Courier New',monospace" font-size="13" fill="#7a7365">17%</text>
+</svg>
