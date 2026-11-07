@@ -1,16 +1,93 @@
-## Hi there 👋
+<div align="center">
+  <img src="./assets/banner.svg" alt="Ananvay Pandey — AI × software × hardware" width="100%" />
+</div>
 
-<!--
-**ananvaypandey/ananvaypandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://ananvaypandey.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-visit-3151c2?style=for-the-badge&logo=googlechrome&logoColor=ffffff" alt="Portfolio" /></a>
+  <a href="https://www.youtube.com/@ananvayio"><img src="https://img.shields.io/badge/YouTube-%40ananvayio-FF0000?style=for-the-badge&logo=youtube&logoColor=ffffff" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/ananvay.io/"><img src="https://img.shields.io/badge/Instagram-%40ananvay.io-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" /></a>
+  <a href="https://medium.com/@ananvaypandey29"><img src="https://img.shields.io/badge/Medium-%40ananvaypandey29-211f1a?style=for-the-badge&logo=medium&logoColor=ffffff" alt="Medium" /></a>
+</p>
 
-Here are some ideas to get you started:
+### ✏️ a quick sketch of me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Ananvay Pandey** — a B.Tech CSE student and builder working where **AI, software, and hardware** meet. I like taking an idea from a doodle on paper to something people can actually touch, talk to, or wear.
+
+- 🔭 building **VOIKES Technologies** and shipping AI that feels less like a chatbot and more like a companion
+- 🧠 exploring **edge AI, multimodal models, wearables, and human–AI interaction**
+- 🔧 happiest with a Raspberry Pi in one hand and a half-finished notebook in the other
+- 🎮 sometimes I ship browser games instead of sleeping
+
+> "I don't just want to understand how technology works. I want to build what it can become."
+
+---
+
+### 🧰 the toolbox
+
+<div align="center">
+  <img src="./assets/toolbox.svg" alt="Technologies I work with" width="100%" />
+</div>
+
+---
+
+### 🚀 things I've sketched into existence
+
+| project | the one-liner | built with |
+| :-- | :-- | :-- |
+| **[VOKA](https://github.com/ananvaypandey/VOKA)** | an AI companion for mental well-being — lifelike avatar + hardware sensing | Raspberry Pi 5 · Unreal · MetaHuman · FastAPI |
+| **[VOXLENS](https://github.com/ananvaypandey/VOXLENS)** | smart glasses that caption speech in real time | speech-to-text · embedded systems · HCI |
+| **[VOSIGN](https://github.com/ananvaypandey/VOSIGN)** | a smart glove that turns sign language into speech | flex sensors · gesture recognition |
+| **[VOZO](https://github.com/ananvaypandey/VOZO)** | an offline peer-to-peer messenger — no internet, no server | Android · Nearby Connections |
+
+<sub>…plus a hand-drawn endless runner and a shelf of experiments that may or may not compile.</sub>
+
+---
+
+### 🌱 right now
+
+- **building** — VOKA and the VOIKES stack
+- **learning** — multimodal AI, edge inference, real-time robotics
+- **open to** — collabs on AI × hardware, accessibility tech, and strange interfaces
+- **ask me about** — Raspberry Pi builds, MetaHuman, turning demos into products
+
+### 🗒️ field notes
+
+- [x] shipped VOKA, VOXLENS, VOSIGN & VOZO
+- [x] built a paper-sketch game just for fun
+- [ ] something with robots that probably shouldn't exist yet
+- [ ] collect more notebooks than free time
+
+---
+
+### 🎮 take a five-minute break
+
+<div align="center">
+
+**Paper Runner** — a little hand-sketched endless runner
+
+<a href="https://ananvaypandey.github.io/portfolio/play/"><img src="https://img.shields.io/badge/%E2%96%B6%20play-paper%20runner-cf4a33?style=for-the-badge&labelColor=211f1a" alt="Play Paper Runner" /></a>
+
+</div>
+
+---
+
+### 📈 leftover graphite
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ananvaypandey&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=f6f1e3&title_color=211f1a&text_color=211f1a&icon_color=3151c2&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananvaypandey&layout=compact&langs_count=8&hide_border=true&bg_color=f6f1e3&title_color=211f1a&text_color=211f1a" alt="Top languages" />
+</div>
+
+---
+
+### 📫 find me in the margins
+
+<p align="center">
+  <a href="mailto:ananvaypandey29@gmail.com"><img src="https://img.shields.io/badge/Email-say%20hi-f2c14e?style=for-the-badge&logo=gmail&logoColor=211f1a" alt="Email" /></a>
+  <a href="https://github.com/ananvaypandey"><img src="https://img.shields.io/badge/GitHub-ananvaypandey-211f1a?style=for-the-badge&logo=github&logoColor=f6f1e3" alt="GitHub" /></a>
+  <a href="https://in.linkedin.com/in/ananvay-pandey-98aa94309"><img src="https://img.shields.io/badge/LinkedIn-Ananvay%20Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" /></a>
+</p>
+
+<div align="center">
+  <img src="./assets/footer.svg" alt="sketched with chai, shipped with coffee" width="100%" />
+</div>

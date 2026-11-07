@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ananvay Pandey — AI, software, hardware">
+  <defs>
+    <filter id="wobble" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="2" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="wobbleSoft" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="3" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.5" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <pattern id="grain" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1" fill="#9a9281" opacity="0.22"/>
+      <circle cx="14" cy="11" r="0.7" fill="#9a9281" opacity="0.16"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="#f6f1e3"/>
+  <rect width="1200" height="300" fill="url(#grain)"/>
+
+  <rect x="16" y="16" width="1168" height="268" rx="20" fill="none" stroke="#211f1a" stroke-width="3" filter="url(#wobble)"/>
+  <rect x="28" y="28" width="1144" height="244" rx="16" fill="none" stroke="#9a9281" stroke-width="1.5" stroke-dasharray="2 9" opacity="0.8"/>
+
+  <g transform="rotate(-7 132 29)">
+    <rect x="86" y="16" width="92" height="26" rx="3" fill="#f2c14e" opacity="0.6"/>
+  </g>
+  <g transform="rotate(5 1070 29)">
+    <rect x="1024" y="16" width="92" height="26" rx="3" fill="#cf4a33" opacity="0.28"/>
+  </g>
+
+  <text x="66" y="138" font-family="'Comic Sans MS','Segoe Print','Bradley Hand','Chalkboard SE',cursive" font-size="78" font-weight="700" fill="#211f1a" filter="url(#wobbleSoft)">ananvay pandey</text>
+  <path d="M68 156 q 46 14 92 0 t 92 0 t 92 0 t 92 0" fill="none" stroke="#cf4a33" stroke-width="4" stroke-linecap="round" filter="url(#wobbleSoft)"/>
+  <text x="70" y="194" font-family="'Comic Sans MS','Segoe Print','Bradley Hand',cursive" font-size="30" fill="#3151c2" filter="url(#wobbleSoft)">AI &#215; software &#215; hardware</text>
+  <text x="70" y="230" font-family="'Courier New',monospace" font-size="17" letter-spacing="1" fill="#9a9281">B.Tech CSE student &#183; builder &#183; founder @ VOIKES</text>
+
+  <g fill="none" stroke="#211f1a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#wobble)">
+    <g transform="translate(928 62) rotate(10)">
+      <path d="M2 62 C 10 26 30 8 50 2 C 60 22 56 46 40 64 Z" fill="#fdfaf0"/>
+      <circle cx="33" cy="27" r="7" fill="#3151c2" stroke="none"/>
+      <path d="M2 62 l-16 10 M18 68 l-6 16 M34 68 l6 14"/>
+      <path d="M20 76 q 14 16 28 0" stroke="#f2c14e" stroke-width="4"/>
+    </g>
+    <path d="M812 78 l11 25 27 2 -21 19 7 27 -24 -14 -24 14 7 -27 -21 -19 27 -2 z" fill="#f2c14e"/>
+    <g transform="translate(1052 168)">
+      <path d="M-16 4 a16 16 0 1 1 32 0 c0 9 -6 11 -6 18 h-20 c0 -7 -6 -9 -6 -18z" fill="#fdfaf0"/>
+      <path d="M-6 26 h12 M-4 32 h8"/>
+      <path d="M-30 -20 l-9 -9 M30 -20 l9 -9 M0 -36 v-12"/>
+    </g>
+    <path d="M760 238 q 22 -16 44 0 t 44 0 t 44 0" stroke="#cf4a33"/>
+  </g>
+</svg>

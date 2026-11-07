@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Toolbox — AI, programming, hardware">
+  <defs>
+    <filter id="wobble" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015" numOctaves="2" seed="11" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="3" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <filter id="wobbleSoft" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="4" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.4" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+    <pattern id="grain" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="1" fill="#9a9281" opacity="0.2"/>
+      <circle cx="14" cy="11" r="0.7" fill="#9a9281" opacity="0.14"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="#f6f1e3"/>
+  <rect width="1200" height="300" fill="url(#grain)"/>
+
+  <g font-family="'Comic Sans MS','Segoe Print','Bradley Hand',cursive" filter="url(#wobbleSoft)">
+    <g transform="translate(32 26)">
+      <rect width="352" height="156" rx="16" fill="#fdfaf0" stroke="#211f1a" stroke-width="3" filter="url(#wobble)"/>
+      <text x="22" y="40" font-size="26" fill="#3151c2">AI &amp; ML</text>
+      <path d="M22 48 q 34 8 68 0" fill="none" stroke="#cf4a33" stroke-width="3" stroke-linecap="round"/>
+      <text x="22" y="82" font-size="18" fill="#211f1a">Generative AI &#183; LLMs</text>
+      <text x="22" y="110" font-size="18" fill="#211f1a">Computer vision</text>
+      <text x="22" y="138" font-size="18" fill="#211f1a">Speech AI &#183; Edge AI</text>
+    </g>
+
+    <g transform="translate(424 26)">
+      <rect width="352" height="156" rx="16" fill="#fdfaf0" stroke="#211f1a" stroke-width="3" filter="url(#wobble)"/>
+      <text x="22" y="40" font-size="26" fill="#3151c2">code</text>
+      <path d="M22 48 q 34 8 68 0" fill="none" stroke="#cf4a33" stroke-width="3" stroke-linecap="round"/>
+      <text x="22" y="82" font-size="18" fill="#211f1a">Python &#183; TypeScript</text>
+      <text x="22" y="110" font-size="18" fill="#211f1a">C++ &#183; JavaScript</text>
+      <text x="22" y="138" font-size="18" fill="#211f1a">SQL</text>
+    </g>
+
+    <g transform="translate(816 26)">
+      <rect width="352" height="156" rx="16" fill="#fdfaf0" stroke="#211f1a" stroke-width="3" filter="url(#wobble)"/>
+      <text x="22" y="40" font-size="26" fill="#3151c2">build &amp; hardware</text>
+      <path d="M22 48 q 34 8 68 0" fill="none" stroke="#cf4a33" stroke-width="3" stroke-linecap="round"/>
+      <text x="22" y="82" font-size="18" fill="#211f1a">React &#183; Next.js &#183; FastAPI</text>
+      <text x="22" y="110" font-size="18" fill="#211f1a">Firebase &#183; Raspberry Pi</text>
+      <text x="22" y="138" font-size="18" fill="#211f1a">Arduino &#183; Unreal Engine</text>
+    </g>
+
+    <text x="600" y="238" text-anchor="middle" font-size="22" fill="#9a9281">currently exploring &#8212; multimodal AI &#183; agents &#183; wearables &#183; human&#8211;AI interaction</text>
+  </g>
+
+  <g fill="none" stroke="#211f1a" stroke-width="2.5" stroke-linecap="round" filter="url(#wobble)">
+    <path d="M338 176 l8 8 M346 176 l-8 8" stroke="#cf4a33"/>
+    <path d="M730 176 l8 8 M738 176 l-8 8" stroke="#cf4a33"/>
+  </g>
+</svg>

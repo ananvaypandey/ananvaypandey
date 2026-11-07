@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110" role="img" aria-label="sketched with chai, shipped with coffee">
+  <defs>
+    <filter id="wobble" x="-6%" y="-6%" width="112%" height="112%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.02" numOctaves="2" seed="9" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="2.4" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="1184" height="94" rx="14" fill="#f6f1e3" stroke="#211f1a" stroke-width="2.5" filter="url(#wobble)"/>
+
+  <text x="600" y="52" text-anchor="middle" font-family="'Comic Sans MS','Segoe Print','Bradley Hand',cursive" font-size="24" fill="#3151c2" filter="url(#wobble)">&#8212; sketched with chai, shipped with coffee &#8212;</text>
+  <text x="600" y="80" text-anchor="middle" font-family="'Courier New',monospace" font-size="13" letter-spacing="1" fill="#9a9281">thanks for scrolling this far</text>
+
+  <g fill="none" stroke="#211f1a" stroke-width="2.5" stroke-linecap="round" filter="url(#wobble)">
+    <path d="M120 56 q 18 -12 36 0 t 36 0" stroke="#f2c14e"/>
+    <path d="M1008 56 q 18 -12 36 0 t 36 0" stroke="#cf4a33"/>
+    <path d="M170 30 l7 8 -7 8" stroke="#211f1a"/>
+  </g>
+</svg>
